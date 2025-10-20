@@ -8,3 +8,14 @@ h1{
 .red{
     color: aqua;
 }
+p{
+    font-size: 50px;
+    color: blue;
+    margin: 20 30 10 40;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.brown{
+    text-align: center;
+    color: chocolate;
+    padding-top: 30px;
+}
